@@ -1,1 +1,1 @@
-# tripleBaka
+GTK Theme of Miku
